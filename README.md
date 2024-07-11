@@ -4,7 +4,7 @@ This project present how to use hooks in React, only use to understand how hooks
 
 ## Steps you need before run
 
-Install node.js version 20.11.0
+Install node.js version LTS
 [Download Node.js (LTS)](https://nodejs.org/)
 
 Install package manager Yarn as global
